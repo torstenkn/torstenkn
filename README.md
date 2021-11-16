@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @torstenkn
 - 👀 I’m interested in Medical Devices, Software Development
-- 🌱 I’m currently learning Django programming
+- 🌱 I currently practice Django programming
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: Connect with my on LinkedIn: https://www.linkedin.com/in/tkneuss/
 
